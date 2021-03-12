@@ -4,7 +4,7 @@
     "document": "rm -f doc/dependencies.svg && mkdir -p doc && madge src/index.ts -i doc/dependencies.svg"
   },
   "devDependencies": {
-    "madge": "^3.4.4",
+    "madge": "^4.0.1",
     "ts-loader": "^5.4.3",
     "typescript": "^3.4.5",
     "webpack": "^4.30.0",
